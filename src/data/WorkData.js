@@ -15,7 +15,7 @@ export const Work = [
     id: 2,
     name: "Weather forcast  website",
     description:
-        "A Job listing website build in ReactJS. With searching and filtering functionalities.",
+        "A Weather forcast website build in ReactJS. With searching and filtering functionalities.",
     tags: ["react", "sass"],
 
     demo: "http://react-job-listing-website.codebucks27.vercel.app/",
