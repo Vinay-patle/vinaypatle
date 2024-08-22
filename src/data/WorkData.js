@@ -34,8 +34,8 @@ export const Work = [
     id: 4,
     name: "Sidebar Menu",
     description:
-      "A cool looking sidebar menu build using ReactJS and styledComponents.It has really smooth animations.",
-    tags: ["react", "styledComponents", "react-router"],
+      "A cool looking sidebar menu build using HTML, CSS and JS. It has really smooth animations.",
+    tags: ["Html", "Css" , "Js"],
 
     demo: "https://react-sidebar.vercel.app/",
     github: "https://github.com/codebucks27/react-sidebar",
@@ -44,7 +44,7 @@ export const Work = [
     id: 5,
     name: "Plot listing  website",
     description:
-      "A todo app build using Redux-toolkit and framer-motion for smooth animations.",
+      "A Plot listing  website build using Html, Css, JS With searching and filtering functionalities.",
     tags: ["react", "redux", "framer-motion"],
 
     demo: "http://react-redux-todo-app-git-main-codebucks27.vercel.app/",
@@ -54,7 +54,7 @@ export const Work = [
     id: 6,
     name: "Anshul Photographer",
     description:
-      "A reponsive navbar menu component in ReactJS with react-router functionalities. Built from scratch.",
+      "A  Photographer website build using Html, Css and JS built from scratch.",
     tags: ["react", "react-router", "css"],
 
     demo: "http://react-responsive-navbar-codebucks27.vercel.app/",
