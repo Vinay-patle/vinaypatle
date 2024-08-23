@@ -22,7 +22,7 @@ export const Linkedin = (props) => {
     <svg
       aria-hidden="true"
       data-prefix="fab"
-      data-icon="github"
+      data-icon="Linkedin"
       className="prefix__svg-inline--fa prefix__fa-Linkedin prefix__fa-w-16"
       xmlns="http://www.w3.org/2000/svg"
       viewBox="0 0 496 512"
