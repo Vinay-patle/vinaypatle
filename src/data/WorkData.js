@@ -6,17 +6,17 @@ export const Work = [
     name: "Event Organizer",
     description:"It is build on top of the HTML,CSS and JS. ",
     tags: ["HTML", "CSS", "JAVASCRIPT"],
-    demo: "https://agency-website-eta.vercel.app/",
+    demo: "https://github.com/Vinay-patle/Event-Organizer",
     github: "https://github.com/vinay-patle/wedlock",
     },
 
     {
     id: 2,
-    name: "Weather forcast  website",
-    description:"A Weather forcast website build in ReactJS. With searching and filtering functionalities.",
+    name: "Vaso - ecommerce website",
+    description:"A Vaso - ecommerce website build in ReactJS. With searching and filtering functionalities.",
     tags: ["react", "sass"],
-    demo: "http://react-job-listing-website.codebucks27.vercel.app/",
-    github: "https://github.com/codebucks27/react-job-listing-website",
+    demo: "https://vasoo.vercel.app/",
+    github: "https://github.com/Vinay-patle/VASO",
   },
 
   {
@@ -24,8 +24,8 @@ export const Work = [
     name: "Maillard",
     description: "A Restrunt website for table booking .",
     tags: ["react", "api", "sass"],
-    demo: "http://devto-clone-codebucks27.vercel.app/",
-    github: "https://github.com/codebucks27/devto-clone",
+    demo: "https://maillard.vercel.app/",
+    github: "https://github.com/Vinay-patle/Maillard",
   },
 
   {
@@ -34,8 +34,8 @@ export const Work = [
     description:
       "A cool looking sidebar menu build using HTML, CSS and JS. It has really smooth animations.",
     tags: ["Html", "Css" , "Js"],
-    demo: "https://react-sidebar.vercel.app/",
-    github: "https://github.com/codebucks27/react-sidebar",
+    demo: "https://sidebar-dun-nine.vercel.app/",
+    github: "https://github.com/Vinay-patle/Sidebar",
   },
 
   {
@@ -44,8 +44,8 @@ export const Work = [
     description:
       "A Plot listing  website build using Html, Css, JS With searching and filtering functionalities.",
     tags: ["react", "redux", "framer-motion"],
-    demo: "http://react-redux-todo-app-git-main-codebucks27.vercel.app/",
-    github: "https://github.com/codebucks27/React-Redux-Todo-App",
+    demo: "https://plotlistings.vercel.app/",
+    github: "https://github.com/Vinay-patle/plotlisting",
   },
 
   {
