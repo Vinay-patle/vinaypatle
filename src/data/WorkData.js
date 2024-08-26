@@ -6,8 +6,8 @@ export const Work = [
     name: "Event Organizer",
     description:"It is build on top of the HTML,CSS and JS. ",
     tags: ["HTML", "CSS", "JAVASCRIPT"],
-    demo: "https://github.com/Vinay-patle/Event-Organizer",
-    github: "https://github.com/vinay-patle/wedlock",
+    demo: "https://event-organizer-ruby.vercel.app/",
+    github: "https://github.com/Vinay-patle/Event-Organizer",
     },
 
     {
