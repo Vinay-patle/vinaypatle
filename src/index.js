@@ -6,7 +6,6 @@ import "normalize.css"
 import { createRoot } from 'react-dom/client';
 
 import { BrowserRouter } from 'react-router-dom'
-<meta name="google-adsense-account" content="ca-pub-6135741177303730">
 
 // From react 18 we should use createRoot instead of ReactDOM
 const container = document.getElementById('root');
