@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.88f3197d.css",
+    "main.js": "/static/js/main.5c834407.js",
+    "static/media/Happyroutes.png": "/static/media/Happyroutes.0b57d8bd1de3cf3379a0.png",
+    "static/media/cisco.png": "/static/media/cisco.c92fe93accab9fa6821b.png",
+    "static/media/vinay.png": "/static/media/vinay.9190c7ae8e7fa2599926.png",
+    "static/media/FoodPalace.png": "/static/media/FoodPalace.5e59b3467e9d1a874d60.png",
+    "static/media/Webmedical.png": "/static/media/Webmedical.b8245ca6064952c9d6ae.png",
+    "static/media/github.png": "/static/media/github.b437ddf6181150ad28c8.png",
+    "static/media/contactImg.png": "/static/media/contactImg.8ddfbfd11798f881db54.png",
+    "index.html": "/index.html",
+    "main.88f3197d.css.map": "/static/css/main.88f3197d.css.map",
+    "main.5c834407.js.map": "/static/js/main.5c834407.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.88f3197d.css",
+    "static/js/main.5c834407.js"
+  ]
+}
