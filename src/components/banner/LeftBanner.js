@@ -1,11 +1,11 @@
 import React from "react";
 import { useTypewriter, Cursor } from "react-simple-typewriter";
 import {
-  FaFigma,
   FaTwitter,
   FaLinkedinIn,
   FaReact,
   FaGithub,
+  FaInstagram,
 } from "react-icons/fa";
 import { SiTailwindcss, SiFigma, SiNextdotjs } from "react-icons/si";
 
@@ -49,9 +49,9 @@ const LeftBanner = () => {
                 <FaGithub />
               </span>
             </a>
-            <a href="https://Figma.com/" target="blank">
+            <a href="https://www.Instagram.com/mr.vinay_patle" target="blank">
               <span className="bannerIcon">
-                <FaFigma/>
+                <FaInstagram/>
               </span>
             </a>
             <a href="https://twitter.com/patlevinay2003" target="blank">
