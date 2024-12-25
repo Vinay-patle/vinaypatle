@@ -1,7 +1,7 @@
 import React from 'react'
 import { AiFillAppstore } from "react-icons/ai";
 //import {  FaGlobe } from "react-icons/fa";
-import { SiAntdesign } from "react-icons/si";
+//import { SiAntdesign } from "react-icons/si";
 import Title from '../layouts/Title';
 import Card from './Card';
 
@@ -24,12 +24,6 @@ const Features = () => {
           des="Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque soluta
           hic consequuntur eum repellendus ad."
           icon={<AiFillAppstore />}
-        />
-        <Card
-          title="UX Design"
-          des="Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque soluta
-          hic consequuntur eum repellendus ad."
-          icon={<SiAntdesign />}
         />
       </div>
     </section>

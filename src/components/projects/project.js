@@ -1,5 +1,5 @@
 import React from 'react'
-//import Title from '../layouts/Title'
+import Title from '../layouts/Title'
 import {  Webmediacl, Happyroutes, FoodPalace, } from "../../assets/index";
 //import ProjectsCard from './ProjectsCard';
 import { FaGithub } from 'react-icons/fa'
@@ -7,12 +7,12 @@ import { FaGithub } from 'react-icons/fa'
 const Project = () => {
   const projects = [
       {
-        title: "Digital Marketing",
+        title: "WebMediacl",
         description:
-          "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ea accusantium impedit facere. Sequi, deserunt recusandae.",
-        techStack: ["Next.js", "MongoDB", "Stripe", "Tailwind CSS"],
-        link: "https://business420.netlify.app/",
-        github: 'https://github.com/rohitsingh93300/YTBusiness',
+          "this is a web mediacl website where you can book your appointment and get your prescription online.This is a Front End project where I used Next.js.",
+        techStack: ["Next.js", "React.js", "Tailwind CSS"],
+        link: "https://WebMedical.vercel.app/",
+        github: 'https://github.com/vinay-patle/WebMedical',
         image: Webmediacl, // Replace with your project screenshot
       },
       {
@@ -20,8 +20,8 @@ const Project = () => {
         description:
           "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ea accusantium impedit facere. Sequi, deserunt recusandae.",
         techStack: ["React", "Node.js", "MongoDB", "shadcn UI"],
-        link: "https://nike-topaz-delta.vercel.app/",
-        github: 'https://github.com/rohitsingh93300/YT-Nike',
+        link: "https://Happyroutes.vercel.app/",
+        github: 'https://github.com/vinay-patle/Happyroutes',
         image: Happyroutes, // Replace with your project screenshot
       },
       {
@@ -33,14 +33,27 @@ const Project = () => {
         github: 'https://github.com/rohitsingh93300/YT-Clothify',
         image: FoodPalace, // Replace with your project screenshot
       },
+      {
+        title: "Nike Shoes",
+        description:
+          "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ea accusantium impedit facere. Sequi, deserunt recusandae.",
+        techStack: ["React", "Node.js", "MongoDB", "shadcn UI"],
+        link: "https://Happyroutes.vercel.app/",
+        github: 'https://github.com/vinay-patle/Happyroutes',
+        image: Happyroutes, // Replace with your project screenshot
+      },
     ];
 return (
-  <section id='project' className='bg-gradient-to-r bg-gray-900 py-16 px-6'>
+  <section id='project' className='bg-gradient-to-r bg-gray-90 py-16 px-6'>
     <div className='max-w-7xl mx-auto'>
-      <h2 className='text-5xl font-bold text-center text-gray-300 mb-12'>Projects</h2>
+      <div className="flex justify-center items-center text-center">
+        <Title
+          title="VISIT MY PORTFOLIO AND KEEP YOUR FEEDBACK"
+          des="My Projects"/>
+      </div>
       <div className='grid sm:grid-cols-2 lg:grid-cols-3 gap-10'>
           {projects.map((project, index) => (
-              <div key={index} className='bg-gray-950 rounded-lg shadow-lg overflow-hidden transform transition-transform hover:scale-105'>
+              <div key={index} className='bg-gray-900 rounded-lg shadow-lg overflow-hidden transform transition-transform hover:scale-105'>
                   <img src={project.image} alt={project.title} className='w-full h-48 object-cover px-3 pt-3 rounded-2xl'/>
                   <div className='p-6'>
                       <h3 className='text-2xl font-semibold text-gray-300 mb-2'>{project.title}</h3>
